@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/skye3133/skye3133.github.io.git
+	branch = main
